@@ -1,2 +1,0 @@
-This app is for the hikers who wants to know there exact location, altitude and speed. It will update with the movement and show the hikers real time 
-results and location.
